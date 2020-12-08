@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Me</title>
+        <meta name="About Me" content="Website">
+        <meta name="Basketball" content="NBA Teams">
+        <meta name="keywords" content="about me, nba teams, opinion,interest and personality">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <style>
+     
+    </style>
+    <body>  
+       <h1>My Opinion on Nba Teams</h1>
+        <table id="table" border="5">
+            <tr>
+               <th class="left">Team</th>
+              <th class="middle">Rating of the Team</th>
+               
+            </tr>
+            <tr>
+                <td class="left">Miami Heat</td>
+                <td class="middle">10/10</td>
+               
+            </tr>
+            <tr>
+                <td class="left">Milwaukee Bucks</td>
+                <td class="middle">8.9/10</td>
+            </tr>
+            <tr>
+                <td class="left">Los Angeles Lakers</td>
+                <td class="middle">9.3/10</td>
+            </tr>
+             </tr>
+            <tr>
+                <td class="left">Golden State Warriors</td>
+                <td class="middle">10/10</td>
+            </tr>
+             </tr>
+            <tr>
+                <td class="left">Chicago Bulls</td>
+                <td class="middle">7.9/10</td>
+            </tr>
+        </table>
+<h2>5 things about me:</h2>
+        <ul>
+<ol>
+            <li>I like to play Basketball</li>
+            <li>I like to be kind to other people</li>
+            <li>I am trying to pursue a career in Basketball or a lawyer</li>
+            <li>The Miami Heat is my favorite basketball team</li>
+  <li>I am very opened minded to new ideas.</li>
+                </ol>
+<h2>Interests and Personality</h2>
+ <img src="https://images.search.yahoo.com/images/view;_ylt=AwrExo9RBGhfsJMA2m42nIlQ;_ylu=X3oDMTIzZ2ljanViBHNlYwNzcgRzbGsDaW1nBG9pZANkMmFlNzM4ZWZlMTY5ZWQwYjNmMTdhMWRiZGY4NWU1MQRncG9zAzQ2BGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dbasketball%26ei%3DUTF-8%26type%3Dcr_ds_medici_wk37_2020%26fr%3Dyhs-symantec-ext_onb%26hsimp%3Dyhs-ext_onb%26hspart%3Dsymantec%26param1%3D540043a5-4966-48fa-c2e0-bc6ca3aa1076_2020-09-08_cr%26param2%3Dds__medici%26param3%3DSSS__wk37_2020%26param4%3Dstore%26tab%3Dorganic%26ri%3D46&w=736&h=1114&imgurl=i.pinimg.com%2F736x%2F2f%2Fe4%2Fd5%2F2fe4d55adcb2661f1741c4771d3d6ae7--nba-players-basketball-players.jpg&rurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F11892386487597659%2F&size=94.4KB&p=basketball&oid=d2ae738efe169ed0b3f17a1dbdf85e51&fr2=&fr=yhs-symantec-ext_onb&tt=The+Official+Site+of+the+%7C+Best+nba+players%2C+Magic+johnson+...&b=0&ni=64&no=46&ts=&tab=organic&sigr=IGz6MuInYhkd&sigb=MVrX0rH_tTRD&sigi=ZGz4S6G8sMCv&sigt=Z9K5o1b1b_Ku&.crumb=ciM3ZRUkP6i&fr=yhs-symantec-ext_onb&hsimp=yhs-ext_onb&hspart=symantec&type=cr_ds_medici_wk37_2020&param1=540043a5-4966-48fa-c2e0-bc6ca3aa1076_2020-09-08_cr&param2=ds__medici&param3=SSS__wk37_2020&param4=store" width="200px" alt="Basketball">
+<!--Basketball is one of my favorite sports-->        
+<br>
+        <a href="https://www.pinterest.com/pin/11892386487597659/">
+          Basketball
+        </a>
+        <br>
+        <br>
+         
+        <img src="https://tse1.mm.bing.net/th?id=OIP.54CUEAamGEFmSrJWvFzAigHaDt&pid=Api&P=0&w=379&h=190" width="200px" alt="Kindness">
+        <br>
+        <a href="https://www.huffpost.com/entry/kindness-playlist_n_4682174">
+            Kindness
+        </a>
+        <br>
+        <br>
+         <!--Being a lawyer seems interesting to me-->
+        <img src="https://images05.military.com/sites/default/files/2018-10/legal_court_justice_lawyer_18x12.png" width="200px" alt="Lawyer">
+        <br>
+        <a href="https://www.military.com/militaryadvantage/2018/10/22/should-you-hire-lawyer-file-va-disability-claim.html">
+            Lawyer
+        </a>
+        <br>
+        <br>
+         
+        <img src="https://tse4.mm.bing.net/th?id=OIP.LJ2QnMyFqmM-h38F74vzpAHaKO&pid=Api&P=0&w=300&h=300" width="200px" alt="Miami Heat">
+        <br>
+        <a href="https://en.wikipedia.org/wiki/Miami_Heat">
+          Miami Heat
+        </a>
+        <br>
+        <br>
+        <img src="https://images.search.yahoo.com/images/view;_ylt=AwrJ6woEBmhfYXcAziE2nIlQ;_ylu=X3oDMTIyOWpzbWlkBHNlYwNzcgRzbGsDaW1nBG9pZANkNzU4ZGMyMTUyMTU5ZTFkY2I0MTk2NTU1ODk2MGQyZgRncG9zAzIEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dopened%2Bminded%26ei%3DUTF-8%26type%3Dcr_ds_medici_wk37_2020%26fr%3Dyhs-symantec-ext_onb%26hsimp%3Dyhs-ext_onb%26hspart%3Dsymantec%26param1%3D540043a5-4966-48fa-c2e0-bc6ca3aa1076_2020-09-08_cr%26param2%3Dds__medici%26param3%3DSSS__wk37_2020%26param4%3Dstore%26tab%3Dorganic%26ri%3D2&w=1280&h=720&imgurl=i.ytimg.com%2Fvi%2FfkotUXHOhVk%2Fmaxresdefault.jpg&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfkotUXHOhVk%26feature%3Dyoutu.be&size=44.8KB&p=opened+minded&oid=d758dc2152159e1dcb41965558960d2f&fr2=&fr=yhs-symantec-ext_onb&tt=Open+Minded+Episode+1+-+YouTube&b=0&ni=64&no=2&ts=&tab=organic&sigr=wfP88JIOOOdf&sigb=s6gbxIR..Pkj&sigi=.dkr3P1xcmpV&sigt=dDlxrTcXhcFA&.crumb=ciM3ZRUkP6i&fr=yhs-symantec-ext_onb&hsimp=yhs-ext_onb&hspart=symantec&type=cr_ds_medici_wk37_2020&param1=540043a5-4966-48fa-c2e0-bc6ca3aa1076_2020-09-08_cr&param2=ds__medici&param3=SSS__wk37_2020&param4=store" width="200px" height="100px" alt="Open Minded">
+        <br>
+        <a href="https://www.youtube.com/watch?v=fkotUXHOhVk&feature=youtu.be">
+            Open Minded
+          <h2>One of my favourite quotes</h2>
+        </a>
+ <p> To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment” (Emerson). The message that Emerson is trying to express to his readers is that a self-directed route is the only route that can lead to real contentment and pleasure. Today’s society teaches us that conformity is the easiest and most successful path to follow. People are told how to act, what we should believe in, what we should wear, who we should be like, etc. In contrast, Henry David Thoreau believes that being yourself will benefit you and the people surrounding you. As a core belief of mine, I believe that everyone should be themselves and therefore I believe in Thoreau’s ideas. </p>
+    </body>
+</html>
+
+      table{
+  width: 50px;
+  height: 10px;
+  border: 2px dotted rgb(210, 65, 225);
+  border-collapse: separate;
+  padding-top: 25px;
+  margin-top: (10%)
+        }
+        body{
+  font-size: 24px;
+  color: orange;
+  background-color:black
+}
+th{
+  background-color: RGB(200,200,200);
+color: red;
+}
+
+td
+{
+  border: solid 1px rgb(240, 236, 90);
+}
+
+#table{
+background-color: #d418ef;
+border: dashed;
+padding-bottom: 25px;
+margin-bottom: (11%)
+width: 50px;
+height: 10px;
+}
+
+.middle
+{
+  background-color: #d418ef;
+}
+.left{
+  background-color:blue;
+}
+
+div {
+  animation: mymove 5s infinite;
