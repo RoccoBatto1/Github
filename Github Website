@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
         <title>About Me</title>
         <meta name="About Me" content="Website">
         <meta name="Basketball" content="NBA Teams">
